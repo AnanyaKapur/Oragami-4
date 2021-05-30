@@ -1,0 +1,37 @@
+.Start{
+    color: #7d0096;
+}
+
+.end{
+    color: #abcdab;;
+}
+
+img{
+    border: solid; 
+    border-width: 20px ;
+    color: #090309;
+}
+
+a:link{
+    color:deeppink
+
+}
+a:visited{
+    color: ghostwhite;
+}
+
+img:hover{
+    transform:scale(1.5);
+
+
+}
+
+p{
+    position:absolute;
+   
+    
+}
+p:hover{opacity:1;}
+img:hover{
+    opacity:0.33
+}
